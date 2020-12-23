@@ -1,7 +1,8 @@
 package sorm
 
 import (
-	"github.com/Luxurioust/excelize"
+	//"github.com/Luxurioust/excelize"
+	"github.com/360EntSecGroup-Skylar/excelize"
 
 	"github.com/bitly/go-simplejson"
 
